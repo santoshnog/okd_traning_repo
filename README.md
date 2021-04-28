@@ -1,0 +1,1 @@
+# okd_traning_repo
