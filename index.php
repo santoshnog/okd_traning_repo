@@ -1,3 +1,3 @@
 <?php
-print 'welcome to OKD';
+print 'welcome to OKD';;
 ?>
